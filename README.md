@@ -70,26 +70,6 @@
    - 可设置是否启用语音输出
    - 可设置翻译结果的保存路径
 
-## 项目结构
-
-```
-TIKTOK AI/
-├── run.py               # 程序启动脚本
-├── main.py              # 程序入口（简化版）
-├── requirements.txt     # 依赖包列表
-├── README.md            # 说明文档
-├── ui/                  # 用户界面模块
-│   └── main_window.py   # 主窗口界面
-├── core/                # 核心功能模块
-│   ├── translator.py    # 翻译核心模块
-│   ├── voice_processor.py  # 语音处理模块
-│   ├── screen_capture.py   # 屏幕捕获模块
-│   ├── live_stream.py   # 直播间连接模块
-│   └── ai_models.py     # AI模型管理模块
-└── data/                # 数据文件
-    ├── translation.db   # 翻译记录数据库
-    └── ai_models.json   # AI模型配置文件
-```
 
 ## 开发计划
 
