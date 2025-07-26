@@ -1,0 +1,14 @@
+{
+  "models": {
+    "translation": {},
+    "speech_recognition": {},
+    "ocr": {},
+    "tts": {}
+  },
+  "active_models": {
+    "translation": null,
+    "speech_recognition": null,
+    "ocr": null,
+    "tts": null
+  }
+}
